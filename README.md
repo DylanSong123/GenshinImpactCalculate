@@ -4,7 +4,7 @@
 
 平常和朋友有谈论伤害的习惯，所以有计算伤害的习惯，之前我是通过matlab来计算的，最近一上头，就用Java写了这个程序。
 
-业余时间更新，Java初学者，如果有不好的，希望可以指出。
+业余时间更新，Java初学者，如果有不好的，希望可以指出。(github不会用)
 
 "Genshin Impact" damage calculator program I wrote in my spare time. In order to be able to more detailed comparison of different weapons or other things to get revenue.
 
